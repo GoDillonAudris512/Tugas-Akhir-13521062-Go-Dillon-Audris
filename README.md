@@ -1,4 +1,4 @@
-# Tugas Akhir_13521062_Go-Dillon-Audris
+# Tugas Akhir_13521062_Go Dillon Audris
 
 "Applying CogLTX for Long Document Classification in Stock Price Movement Prediction"
 
