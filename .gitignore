@@ -1,0 +1,13 @@
+# Data
+data/imbalanced/MDA text/*
+data/balanced/MDA text/*
+*.pkl
+*.joblib
+
+# Base model and trained model
+/model/*
+outputs/*
+
+# Run file
+__pycache__/
+Miniconda3-latest-Linux-x86_64.sh
