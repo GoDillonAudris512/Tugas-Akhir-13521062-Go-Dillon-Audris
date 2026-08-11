@@ -1,0 +1,28 @@
+{
+    "accuracy": 0.48695652173913045,
+    "macro": {
+        "precision": 0.315406162464986,
+        "recall": 0.34700854700854694,
+        "f1_score": 0.3217018356493395
+    },
+    "per_class": {
+        "negative": {
+            "precision": 0.5176470588235295,
+            "recall": 0.7333333333333333,
+            "f1_score": 0.6068965517241379,
+            "support": 60.0
+        },
+        "neutral": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1_score": 0.0,
+            "support": 16.0
+        },
+        "positive": {
+            "precision": 0.42857142857142855,
+            "recall": 0.3076923076923077,
+            "f1_score": 0.3582089552238806,
+            "support": 39.0
+        }
+    }
+}
